@@ -1,0 +1,8 @@
+set backspace=2
+syntax on
+filetype indent on
+set autoindent
+set number
+set nobackup
+set shiftwidth=2
+set tabstop=2
